@@ -1,3 +1,4 @@
+#must return to c tutorials soon
 #include <stdio.h>
 /* PRINT Fahrenheit-Celsius table
   for c = 0, 5, ...., 100 */
