@@ -58,8 +58,18 @@ Boostrap is an open source toolkit for responsive front-end development.
 
 ## Back-End Technologies 
 **PHP**
-PHP: brief description and how to install using xampp and composer
+PHP: brief description and how to install using xampp and composer Contained in Xampp installation. 
+
+**Composer**
+
+**Xampp**
+Download the latest installation of Xampp for your OS [here](https://www.apachefriends.org/download.html#641). 
 
 ### Installation: 
+#### Windows
+[TEXT TO SHOW](actual URL to navigate)
+
+#### Mac OS/Linux
+[TEXT TO SHOW](actual URL to navigate)
 
  [**3 - Developers / Contributors**](developer=contributor)
