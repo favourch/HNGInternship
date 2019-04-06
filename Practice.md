@@ -60,9 +60,13 @@ Boostrap is an open source toolkit for responsive front-end development.
 **PHP**
 PHP: brief description and how to install using xampp and composer Contained in Xampp installation. 
 
-**Composer**
+**Composer** 
+Composer is the most popular dependency management tool for php language. 
+
 
 **Xampp**
+Xampp is a simple apache distribution tool that makes it very easy for developers to create local web servers for testing and deployment. 
+
 Download the latest installation of Xampp for your OS [here](https://www.apachefriends.org/download.html#641). 
 
 ### Installation: 
