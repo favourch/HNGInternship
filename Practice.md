@@ -39,5 +39,11 @@ Working on Authentication
    * [**Feature Overview**](#feature-overview)
    
  [**2 - Installation**](#installation) 
+ 
+Front-End Technologies
+Bootstrap: brief description and how to install(by download or using npm)
+ 
+ Back-End Technologies 
+ PHP: brief description and how to install using xampp and composer
 
  [**3 - Developers / Contributors**](developer=contributor)
